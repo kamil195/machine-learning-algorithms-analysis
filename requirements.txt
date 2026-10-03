@@ -5,3 +5,4 @@ scikit-learn
 pgmpy
 mlxtend
 deap
+streamlit
